@@ -65,7 +65,7 @@
                         android:id="@+id/txtName"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Farmers"
+                        android:text="Farmers i am farmer"
                         android:textSize="18sp"
                         android:textColor="#4CAF50"/>
 
