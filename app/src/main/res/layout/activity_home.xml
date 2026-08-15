@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#F6FFF5">
+    android:background="@drawable/farm_background"
+    >
 
     <!-- Toolbar -->
 
@@ -65,9 +66,10 @@
                         android:id="@+id/txtName"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Farmers i am farmer"
+                        android:text="Farmers"
                         android:textSize="18sp"
                         android:textColor="#4CAF50"/>
+
 
                 </LinearLayout>
 
